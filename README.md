@@ -3,6 +3,11 @@
 - [RL](#rl)
 - [Animation](#animation)
 
+## Acknowledgements
+This paper list was heavily inspired by the following wonderful repositories. Sincere thanks to their authors:
+- [awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning) by [Yanjie Ze](https://github.com/YanjieZe)
+- [bipedal-robot-learning-collection](https://github.com/zita-ch/bipedal-robot-learning-collection) by [Zhang Chong](https://github.com/zita-ch)
+
 ## Human2Humanoid
 utilize motion data
 - [2025.10](https://arxiv.org/abs/2510.14952), From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance, [website](https://gentlefress.github.io/roboghost-proj/)
