@@ -4,7 +4,7 @@
 - [Animation](#animation)
 
 ## Human2Humanoid
-utilize human motion data
+utilize motion data
 - [2025.10](https://arxiv.org/abs/2510.14454), AdaMimic: Towards Adaptable Humanoid Control via Adaptive Motion Tracking, [website](https://taohuang13.github.io/adamimic.github.io/)
 - [2025.10](https://arxiv.org/abs/2510.11072), PhysHSI: Towards a Real-World Generalizable and Natural Humanoid-Scene Interaction System, [website](https://why618188.github.io/physhsi/)
 - [2025.10](https://arxiv.org/abs/2510.05070), ResMimic: From General Motion Tracking to Humanoid Whole-body Loco-Manipulation via Residual Learning, [website](https://resmimic.github.io/)
@@ -76,3 +76,15 @@ env and reward engineering and ...
 - [2023.10](https://arxiv.org/abs/2310.03191), Sim-to-Real Learning for Humanoid Box Loco-Manipulation
 
 ## Animation 
+physics-based
+- [2025.07](https://arxiv.org/abs/2507.05906), Feature-Based vs. GAN-Based Learning from Demonstrations: When and Why
+- [2025.05](https://arxiv.org/abs/2505.23708), AMOR: Adaptive Character Control through Multi-Objective Reinforcement Learning
+- [2025.05](https://arxiv.org/abs/2505.12278), Emergent Active Perception and Dexterity of Simulated Humanoids from Visual Reinforcement Learning, [website](https://www.zhengyiluo.com/PDC-Site/)
+- [2025.05](https://arxiv.org/abs/2505.04961), ADD: Physics-Based Motion Imitation with Adversarial Differential Discriminators
+- [2025.04](https://arxiv.org/abs/2504.11054), Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models, [website](https://metamotivo.metademolab.com/)
+- [2025.03](https://arxiv.org/abs/2503.19901), TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization, [website](https://liangpan99.github.io/TokenHSI/)
+- [2025.02](https://arxiv.org/abs/2502.20390), InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions, [website](https://sirui-xu.github.io/InterMimic/)
+- [2024.10](https://arxiv.org/abs/2410.03441), CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, [website](https://guytevet.github.io/CLoSD-page/)
+- [2022.08](https://arxiv.org/abs/2205.01906), ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters
+- [2021.08](https://arxiv.org/abs/2104.02180), AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control
+- [2018.08](https://arxiv.org/abs/1804.02717), DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills
