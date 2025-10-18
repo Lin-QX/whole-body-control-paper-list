@@ -49,7 +49,7 @@ utilize motion data
 - [2025.04](https://arxiv.org/abs/2504.14305), Adversarial Locomotion and Motion Imitation for Humanoid Policy Learning, [website](https://almi-humanoid.github.io/)
 - [2025.02](https://arxiv.org/abs/2502.01465), Embrace Collisions: Humanoid Shadowing for Deployable Contact-Agnostics Motions, [website](https://project-instinct.github.io/)
 - [2025.02](https://arxiv.org/abs/2502.01143), ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills, [website](https://agile.human2humanoid.com/)
-- [2024.12](https://arxiv.org/abs/2412.07773), **Mobile-TeleVision**: Predictive Motion Priors for Humanoid Whole-Body Control, [website](https://mobile-tv.github.io/)
+- [2024.12](https://arxiv.org/abs/2412.07773), Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body Control, [website](https://mobile-tv.github.io/)
 - [2024.10](https://arxiv.org/abs/2410.21229), HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots, [website](https://hover-versatile-humanoid.github.io/)
 - [2024.06](https://arxiv.org/abs/2406.10454), HumanPlus: Humanoid Shadowing and Imitation from Humans, [website](https://humanoid-ai.github.io/)
 - [2024.06](https://arxiv.org/abs/2406.08858), OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning, [website](https://omni.human2humanoid.com/)
