@@ -5,13 +5,18 @@
 
 ## Human2Humanoid
 utilize motion data
+- [2025.10](https://arxiv.org/abs/2510.14952), From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance, [website](https://gentlefress.github.io/roboghost-proj/)
 - [2025.10](https://arxiv.org/abs/2510.14454), AdaMimic: Towards Adaptable Humanoid Control via Adaptive Motion Tracking, [website](https://taohuang13.github.io/adamimic.github.io/)
+- [2025.10](https://arxiv.org/abs/2510.14293), Learning Human-Humanoid Coordination for Collaborative Object Carrying, [website](https://yushi-du.github.io/COLA/)
 - [2025.10](https://arxiv.org/abs/2510.11072), PhysHSI: Towards a Real-World Generalizable and Natural Humanoid-Scene Interaction System, [website](https://why618188.github.io/physhsi/)
 - [2025.10](https://arxiv.org/abs/2510.05070), ResMimic: From General Motion Tracking to Humanoid Whole-body Loco-Manipulation via Residual Learning, [website](https://resmimic.github.io/)
 - [2025.10](https://arxiv.org/abs/2510.02252), Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking, [code](https://github.com/YanjieZe/GMR)
-- [2025.10](https://arxiv.org/abs/2509.26633), OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction, [website](https://omniretarget.github.io/)
-- [2025.10](https://arxiv.org/abs/2509.20322), VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation, [website](https://visualmimic.github.io/)
+- [2025.09](https://arxiv.org/abs/2509.26633), OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction, [website](https://omniretarget.github.io/)
+- [2025.09](https://arxiv.org/abs/2509.20717), RobotDancing: Residual-Action Reinforcement Learning Enables Robust Long-Horizon Humanoid Motion Tracking
+- [2025.09](https://arxiv.org/abs/2509.20322), VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation, [website](https://visualmimic.github.io/)
+- [2025.09](https://arxiv.org/abs/2509.16757), HDMI: Learning Interactive Humanoid Whole-Body Control from Human Videos, [website](https://hdmi-humanoid.github.io/)
 - [2025.09](https://arxiv.org/abs/2509.16638), KungfuBot2: Learning Versatile Motion Skills for Humanoid Whole-Body Control, [website](https://kungfubot2-humanoid.github.io/)
+- [2025.09](https://arxiv.org/abs/2509.15443), Implicit Kinodynamic Motion Retargeting for Human-to-humanoid Imitation Learning
 - [2025.09](https://arxiv.org/abs/2509.14353), DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion, [website](https://genrobo.github.io/DreamControl/)
 - [2025.09](https://arxiv.org/abs/2509.13833), Track Any Motions under Any Disturbances, [website](https://zzk273.github.io/Any2Track/)
 - [2025.09](https://arxiv.org/abs/2509.13780), Behavior Foundation Model for Humanoid Robots, [website](https://bfm4humanoid.github.io/)
@@ -48,7 +53,9 @@ utilize motion data
 
 ## RL
 env and reward engineering and ...
+- [2025.10](https://arxiv.org/abs/2510.11682), Ego-Vision World Model for Humanoid Contact Planning, [website](https://ego-vcp.github.io/)
 - [2025.09](https://arxiv.org/abs/2509.21690), Towards Versatile Humanoid Table Tennis: Unified Reinforcement Learning with Prediction Augmentation
+- [2025.09](https://arxiv.org/abs/2509.21231), SEEC: Stable End-Effector Control with Model-Enhanced Residual Learning for Humanoid Loco-Manipulation
 - [2025.07](https://arxiv.org/abs/2507.08656), Multi-critic Learning for Whole-body End-effector Twist Tracking
 - [2025.07](https://arxiv.org/abs/2507.08303), Learning Robust Motion Skills via Critical Adversarial Attacks for Humanoid Robots
 - [2025.07](https://arxiv.org/abs/2507.07980), UniTac: Whole-Robot Touch Sensing Without Tactile Sensors, [website](https://ivl.cs.brown.edu/research/unitac)
@@ -77,14 +84,24 @@ env and reward engineering and ...
 
 ## Animation 
 physics-based
+- [2025.10](https://arxiv.org/abs/2510.06203), Reference Grounded Skill Discovery
+- [2025.09](https://arxiv.org/abs/2509.22442), Learning to Ball: Composing Policies for Long-Horizon Basketball Moves, [website](https://pei-xu.github.io/Basketball)
 - [2025.07](https://arxiv.org/abs/2507.05906), Feature-Based vs. GAN-Based Learning from Demonstrations: When and Why
 - [2025.05](https://arxiv.org/abs/2505.23708), AMOR: Adaptive Character Control through Multi-Objective Reinforcement Learning
+- [2025.05](https://arxiv.org/abs/2505.19086), MaskedManipulator: Versatile Whole-Body Control for Loco-Manipulation
+- [2025.05](https://arxiv.org/abs/2505.12619), HIL: Hybrid Imitation Learning of Diverse Parkour Skills from Videos
 - [2025.05](https://arxiv.org/abs/2505.12278), Emergent Active Perception and Dexterity of Simulated Humanoids from Visual Reinforcement Learning, [website](https://www.zhengyiluo.com/PDC-Site/)
 - [2025.05](https://arxiv.org/abs/2505.04961), ADD: Physics-Based Motion Imitation with Adversarial Differential Discriminators
+- [2025.05](https://arxiv.org/abs/2505.04002), PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers, [code](https://github.com/mshoe/PARC)
+- [2025.05](https://arxiv.org/abs/2505.02094), SkillMimic-V2: Learning Robust and Generalizable Interaction Skills from Sparse and Noisy Demonstrations, [website](https://ingrid789.github.io/SkillMimicV2/)
 - [2025.04](https://arxiv.org/abs/2504.11054), Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models, [website](https://metamotivo.metademolab.com/)
 - [2025.03](https://arxiv.org/abs/2503.19901), TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization, [website](https://liangpan99.github.io/TokenHSI/)
 - [2025.02](https://arxiv.org/abs/2502.20390), InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions, [website](https://sirui-xu.github.io/InterMimic/)
 - [2024.10](https://arxiv.org/abs/2410.03441), CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, [website](https://guytevet.github.io/CLoSD-page/)
+- [2024.09](https://arxiv.org/abs/2409.14393), MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting, [website](https://research.nvidia.com/labs/par/maskedmimic/)
+- [2024.08](https://arxiv.org/abs/2408.15270), SkillMimic: Learning Basketball Interaction Skills from Demonstrations, [website](https://ingrid789.github.io/SkillMimic/)
+- [2024.06](https://arxiv.org/abs/2406.14558), CooHOI: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics, [website](https://gao-jiawei.com/Research/CooHOI/)
+- [2023.05](https://arxiv.org/abs/2305.06456), Perpetual Humanoid Control for Real-time Simulated Avatars, [code](https://github.com/ZhengyiLuo/PHC)
 - [2022.08](https://arxiv.org/abs/2205.01906), ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters
 - [2021.08](https://arxiv.org/abs/2104.02180), AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control
 - [2018.08](https://arxiv.org/abs/1804.02717), DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills
