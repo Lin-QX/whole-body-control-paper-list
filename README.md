@@ -1,6 +1,6 @@
 # humanoid-whole-body-control-paper-list
 Papers I have read and plan to read.
-
+- [Human2Humanoid](#human2humanoid)
 ## Human2Humanoid
 human motion data as referrence
 - [2025.10](https://arxiv.org/abs/2510.14454), AdaMimic: Towards Adaptable Humanoid Control via Adaptive Motion Tracking, [website](https://taohuang13.github.io/adamimic.github.io/)
@@ -8,3 +8,10 @@ human motion data as referrence
 - [2025.10](https://arxiv.org/abs/2510.05070), ResMimic: From General Motion Tracking to Humanoid Whole-body Loco-Manipulation via Residual Learning, [website](https://resmimic.github.io/)
 - [2025.10](https://arxiv.org/abs/2510.02252), Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking, [code](https://github.com/YanjieZe/GMR)
 - [2025.10](https://arxiv.org/abs/2509.26633), OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction, [website](https://omniretarget.github.io/)
+- [2025.10](https://arxiv.org/abs/2509.20322), VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation, [website](https://visualmimic.github.io/)
+- [2025.09](https://arxiv.org/abs/2509.16638), KungfuBot 2: Learning Versatile Motion Skills for Humanoid Whole-Body Control
+
+
+## RL
+env and reward engineering
+- [2025.09](https://arxiv.org/abs/2509.21690), Towards Versatile Humanoid Table Tennis: Unified Reinforcement Learning with Prediction Augmentation
