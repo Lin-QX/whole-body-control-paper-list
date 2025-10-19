@@ -101,6 +101,7 @@ physics-based
 - [2025.05](https://arxiv.org/abs/2505.02094), SkillMimic-V2: Learning Robust and Generalizable Interaction Skills from Sparse and Noisy Demonstrations, [website](https://ingrid789.github.io/SkillMimicV2/)
 - [2025.04](https://arxiv.org/abs/2504.11054), Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models, [website](https://metamotivo.metademolab.com/)
 - [2025.03](https://arxiv.org/abs/2503.19901), TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization, [website](https://liangpan99.github.io/TokenHSI/)
+- [2025.03](https://arxiv.org/abs/2503.11801), Diffuse-CLoC: Guided Diffusion for Physics-based Character Look-ahead Control
 - [2025.02](https://arxiv.org/abs/2502.20390), InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions, [website](https://sirui-xu.github.io/InterMimic/)
 - [2024.10](https://arxiv.org/abs/2410.03441), CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, [website](https://guytevet.github.io/CLoSD-page/)
 - [2024.09](https://arxiv.org/abs/2409.14393), MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting, [website](https://research.nvidia.com/labs/par/maskedmimic/)
