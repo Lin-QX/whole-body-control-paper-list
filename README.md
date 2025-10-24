@@ -10,6 +10,7 @@ This paper list was heavily inspired by the following wonderful repositories. Si
 
 ## Human2Humanoid
 utilize motion data
+- [2025.10](https://arxiv.org/abs/2510.18002), Humanoid Goalkeeper: Learning from Position Conditioned Task-Motion Constraints, [website](https://humanoid-goalkeeper.github.io/Goalkeeper/)
 - [2025.10](https://arxiv.org/abs/2510.14952), From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance, [website](https://gentlefress.github.io/roboghost-proj/)
 - [2025.10](https://arxiv.org/abs/2510.14454), AdaMimic: Towards Adaptable Humanoid Control via Adaptive Motion Tracking, [website](https://taohuang13.github.io/adamimic.github.io/)
 - [2025.10](https://arxiv.org/abs/2510.14293), Learning Human-Humanoid Coordination for Collaborative Object Carrying, [website](https://yushi-du.github.io/COLA/)
